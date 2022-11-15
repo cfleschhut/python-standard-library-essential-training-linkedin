@@ -1,6 +1,6 @@
 import urllib.request
 
-sample_url = "http://httpbin.org/xml"
+sample_url = "https://httpbin.org/xml"
 
 response = urllib.request.urlopen(sample_url)
 
